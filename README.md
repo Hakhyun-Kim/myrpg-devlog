@@ -17,6 +17,7 @@
 | 01 | 2026-07-31 | [첫 삽 — 컨셉, GDD v0.1, 그리고 블록체인을 쓰지 않기로 한 이유](journal/2026-07-31-01-kickoff.md) |
 | 02 | 2026-07-31 | [오토를 막지 않기로 했다 — GDD v0.2의 결정들](journal/2026-07-31-02-decisions.md) |
 | 03 | 2026-07-31 | [걷는 뼈대 — 첫 커밋에 PROTOCOL.md](journal/2026-07-31-03-walking-skeleton.md) |
+| 04 | 2026-07-31 | [아침에 버린 Colyseus를 저녁에 다시 데려오다](journal/2026-07-31-04-colyseus-reopened.md) |
 
 ## 스택 / 규모
 
