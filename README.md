@@ -22,6 +22,7 @@
 | 03 | 2026-07-31 | [걷는 뼈대 — 첫 커밋에 PROTOCOL.md](journal/2026-07-31-03-walking-skeleton.md) |
 | 04 | 2026-07-31 | [아침에 버린 Colyseus를 저녁에 다시 데려오다](journal/2026-07-31-04-colyseus-reopened.md) |
 | 05 | 2026-08-03 | [첫 AI 플레이 — Claude가 하란에서 약초를 캤다](journal/2026-08-03-05-first-ai-play.md) |
+| 06 | 2026-08-03 | [하란이 3D가 됐다 — 클라이언트 이원화](journal/2026-08-03-06-3d-client.md) |
 
 ## 스택 / 규모
 
